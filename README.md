@@ -9,3 +9,5 @@ The purpose of this project was to create a visual depiction of the common sorti
 Setup:
 
 Download all of the files into one folder and run Draw.java.
+
+Note: This project had to be completed quickly, so the names of which sorting method is being depicted while the program runs are cut off and some of the bars may be cut off.
